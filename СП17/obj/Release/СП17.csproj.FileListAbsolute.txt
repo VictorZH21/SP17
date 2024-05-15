@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\СП17\СП17\bin\Release\СП17.exe.config
+C:\Users\CoFFey\source\repos\СП17\СП17\bin\Release\СП17.exe
+C:\Users\CoFFey\source\repos\СП17\СП17\bin\Release\СП17.pdb
+C:\Users\CoFFey\source\repos\СП17\СП17\obj\Release\СП17.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\СП17\СП17\obj\Release\СП17.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\СП17\СП17\obj\Release\СП17.Form1.resources
+C:\Users\CoFFey\source\repos\СП17\СП17\obj\Release\СП17.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\СП17\СП17\obj\Release\СП17.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\СП17\СП17\obj\Release\СП17.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\СП17\СП17\obj\Release\СП17.exe
+C:\Users\CoFFey\source\repos\СП17\СП17\obj\Release\СП17.pdb
